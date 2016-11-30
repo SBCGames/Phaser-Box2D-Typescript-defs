@@ -134,7 +134,7 @@ declare module Phaser {
             getFixturesAtPoint(x: number, y: number, onlyOne?: boolean, onlyDynamic?: boolean): box2d.b2Fixture[];
             // Returns all bodies (Phaser.Physics.Box2D.Body) found under the given coordinates. Set the onlyOne
             // parameter to true if you only care about finding one body.
-            getBodiesAtPoint(x: number, y: number, onlyOne?: boolean, onlyDynamic?: boolean): box2d.b2Body[];
+            getBodiesAtPoint(x: number, y: number, onlyOne?: boolean, onlyDynamic?: boolean): Box2D.Body[];
             
             // If there is a dynamic body under the given point, a mouse joint will be created
             // to drag that body around. Use the mouseDragMove and mouseDragEnd functions to
