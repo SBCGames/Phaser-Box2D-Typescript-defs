@@ -1,4 +1,3 @@
-﻿/// <reference path="phaser.d.ts" />
 /// <reference path="box2d.d.ts" />
 
 declare module Phaser {
