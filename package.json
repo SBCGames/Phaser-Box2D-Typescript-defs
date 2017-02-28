@@ -1,0 +1,34 @@
+{
+  "name": "phaser-box2d-typescript-defs",
+  "version": "0.0.1",
+  "description": "Typescript definitions for Phaser Box2D plugin - initial version.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SBCGames/Phaser-Box2D-Typescript-defs.git"
+  },
+  "keywords": [
+    "phaser",
+    "box2d",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Tom Atom (SBCGames)",
+  "license": "No License",
+  "devDependencies": {
+    "PhaserBox2d": "^1.0.2"
+  },
+  "contributors": [
+    {
+      "name": "Tom Atom"
+    },
+    {
+      "name": "Daniël Pels"
+    },
+    {
+      "name": "Sebastian Śledź"
+    }
+  ]
+}
